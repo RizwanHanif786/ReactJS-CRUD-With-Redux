@@ -1,4 +1,10 @@
-# Frontend Coding Challenge
+# React Js CRUD operation using react redux , styled-components, Redux Thunk with filteration.
+
+
+
+
+![image](https://user-images.githubusercontent.com/81885148/193037111-3c716caf-48aa-4fc8-baca-4558bf76c577.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and has addtional libraries included:
 
