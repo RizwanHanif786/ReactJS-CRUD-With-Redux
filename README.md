@@ -1,5 +1,8 @@
-# React Js CRUD operation using react redux , styled-components, Redux Thunk with filteration.
+#React JS CRUD
 
+
+
+React Js CRUD operation using react redux , styled-components, Redux Thunk with filteration.
 
 
 
